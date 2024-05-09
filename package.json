@@ -1,0 +1,12 @@
+{
+  "name": "ssh-jumper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/middleware.js",
+  "scripts": {
+    "middleware": "node src/middleware.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
